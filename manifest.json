@@ -1,7 +1,7 @@
 {
-    "name": "Covid-19 Stack UK",
+    "name": "Covid-19 World Stats",
     "version": "1.0.0",
-    "description": "latest covid data of UK",
+    "description": "A world latest covid-19 report extension. With information such as the amount of death, daily recovered pacient, etc.",
     "manifest_version": 3,
     "author": "Lucau Rafael",
     "action": {
