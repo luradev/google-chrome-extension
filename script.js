@@ -19,7 +19,7 @@ async function fetchData(){
     document.getElementById("todayCases").innerHTML = record.todayCases;
     document.getElementById("todayDeaths").innerHTML = record.todayDeaths;
     document.getElementById("todayRecovered").innerHTML = record.todayRecovered;
-    document.getElementById("affectedCountries").innerHTML = record.affectedCountries;
+    document.getElementById("affectedCountries").innerHTML = record.deaths;
 
 }
 fetchData();
